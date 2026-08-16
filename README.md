@@ -49,4 +49,4 @@ Em desenvolvimento.
 
 ## Autor
 
-Rafael, Consórcio na Prática
+Rafael Augusto, Consórcio na Prática
